@@ -15,6 +15,15 @@ This project analyzes crime trends in New Delhi using clustering and classificat
 ---
 
 ## 📁 Project Structure
+Crime-Analysis-NewDelhi/
+ ├── data/ 
+ │    └── Updated_New_Delhi_Crime_Dataset.csv 
+ ├── notebook/ 
+ |    └── crime_analysis.py
+ ├── images/ 
+ │       └── [charts like heatmap.png, top_locations.png]
+ ├── README.md 
+ └── requirements.txt
 
 ---
 
